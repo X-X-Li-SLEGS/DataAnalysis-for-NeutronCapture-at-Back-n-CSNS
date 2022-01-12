@@ -5,8 +5,10 @@
  
  [1] X.X. Li et al., Nuclear Techniques,2020,43(08):90-98. 
             doi:10.11889/j.0253-3219.2020.hjs.43.080501
+            
  [2] X.X. Li et al., Phys. Rev. C. 104.054302 (2021)
             doi:10.1103/PhysRevC.104.054302
+            
  [3] X.X. Li et al., Chin. phys. B. 
             doi:10.1088/1674-1056/ac48fd
             
@@ -19,9 +21,11 @@
   
  Institute/Group : 
  
-   Shanghai Laser Electron Gamma Source(SLEGS)；
-   Shanghai Advanced Research Institute, CAS；
-   Shanghai Institute of Applied Physics, CAS；
+   Shanghai Laser Electron Gamma Source(SLEGS)
+   
+   Shanghai Advanced Research Institute, CAS
+   
+   Shanghai Institute of Applied Physics, CAS
    
  Date    : 2021.04.10
 
