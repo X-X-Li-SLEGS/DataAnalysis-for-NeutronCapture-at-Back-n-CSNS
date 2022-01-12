@@ -19,9 +19,9 @@
   
  Institute/Group : 
  
-   Shanghai Laser Electron Gamma Source(SLEGS)
-   Shanghai Advanced Research Institute, CAS
-   Shanghai Institute of Applied Physics, CAS
+   Shanghai Laser Electron Gamma Source(SLEGS)；
+   Shanghai Advanced Research Institute, CAS；
+   Shanghai Institute of Applied Physics, CAS；
    
  Date    : 2021.04.10
 
